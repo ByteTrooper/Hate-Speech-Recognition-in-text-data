@@ -1,5 +1,6 @@
 # Hate-Speech-Recognition-in-text-data
 I created a hate speech recognition system using decision trees and Kaggle data, achieving high accuracy in identifying instances of hate speech
+
 Decision tree algorithm is a suitable choice for the hate speech recognition system due to its ability to handle categorical data and its intuitive structure. In this project, the dataset was pre-processed to extract relevant features such as the presence of certain words, phrases, and contextual information.
 
 The decision tree algorithm works by recursively splitting the dataset based on a set of rules until a desired level of classification is reached. In the case of hate speech recognition, the algorithm identifies the most relevant features to split the dataset into subsets that correspond to hate speech and non-hate speech instances.
